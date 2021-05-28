@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/super-hero-app/static/css/main.4f2f7976.chunk.css",
+    "main.js": "/super-hero-app/static/js/main.8d30c077.chunk.js",
+    "main.js.map": "/super-hero-app/static/js/main.8d30c077.chunk.js.map",
+    "runtime-main.js": "/super-hero-app/static/js/runtime-main.2e395552.js",
+    "runtime-main.js.map": "/super-hero-app/static/js/runtime-main.2e395552.js.map",
+    "static/css/2.65af8127.chunk.css": "/super-hero-app/static/css/2.65af8127.chunk.css",
+    "static/js/2.dae0891f.chunk.js": "/super-hero-app/static/js/2.dae0891f.chunk.js",
+    "static/js/2.dae0891f.chunk.js.map": "/super-hero-app/static/js/2.dae0891f.chunk.js.map",
+    "static/js/3.171e9787.chunk.js": "/super-hero-app/static/js/3.171e9787.chunk.js",
+    "static/js/3.171e9787.chunk.js.map": "/super-hero-app/static/js/3.171e9787.chunk.js.map",
+    "index.html": "/super-hero-app/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/super-hero-app/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.4f2f7976.chunk.css.map": "/super-hero-app/static/css/main.4f2f7976.chunk.css.map",
+    "static/js/2.dae0891f.chunk.js.LICENSE.txt": "/super-hero-app/static/js/2.dae0891f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/super-hero-app/static/media/background-1.8cfb7cc2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e395552.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.dae0891f.chunk.js",
+    "static/css/main.4f2f7976.chunk.css",
+    "static/js/main.8d30c077.chunk.js"
+  ]
+}
