@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/super-hero-app/static/css/main.4f2f7976.chunk.css",
-    "main.js": "/super-hero-app/static/js/main.f579a523.chunk.js",
-    "main.js.map": "/super-hero-app/static/js/main.f579a523.chunk.js.map",
+    "main.js": "/super-hero-app/static/js/main.73f68fce.chunk.js",
+    "main.js.map": "/super-hero-app/static/js/main.73f68fce.chunk.js.map",
     "runtime-main.js": "/super-hero-app/static/js/runtime-main.2e395552.js",
     "runtime-main.js.map": "/super-hero-app/static/js/runtime-main.2e395552.js.map",
     "static/css/2.65af8127.chunk.css": "/super-hero-app/static/css/2.65af8127.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.65af8127.chunk.css",
     "static/js/2.dae0891f.chunk.js",
     "static/css/main.4f2f7976.chunk.css",
-    "static/js/main.f579a523.chunk.js"
+    "static/js/main.73f68fce.chunk.js"
   ]
 }
