@@ -2,6 +2,7 @@
   "name": "superhero-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://dan-22-alt.github.io/super-hero-app",
   "proxy": "https://superheroapi.com/api",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
@@ -20,6 +21,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.0",
     "http-proxy-middleware": "^2.0.0"
   }
 }
